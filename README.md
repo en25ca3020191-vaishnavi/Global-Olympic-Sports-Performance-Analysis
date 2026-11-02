@@ -1,2 +1,1 @@
-# Global-Olympic-Sports-Performance-Analysis
-An Olympic Sports Performance Analysis Project 1992-2026 using Tableau to explore medal trends, top performing countries, global participation, athlete growth, and sports investment efficiency through interactive dashboard and visualizations.
+https://drive.google.com/file/d/1I0x6acXM8kNsR6lwf1cnWnN20HYAbYG3/view?usp=drive_link
